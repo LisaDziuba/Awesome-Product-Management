@@ -2,7 +2,10 @@
 Awesome Product Management
 
 * [ ] [Facebook Product Manager Execution Interview: YouTube Goals & Decline](https://www.youtube.com/watch?v=3Qx9cVRJ06I)
-* [ ] [Product Manager Interview: Design Facebook Travel](https://www.youtube.com/watch?v=WydD8QWz9AE) 
+* [ ] [Product Marketing Manager (PMM) Mock Interview](https://youtu.be/pUtfNI8_L9M)
+* [ ] [Product Marketing Management (Khan Academy, LinkedIn) Mock Interview: Why PMM?](https://www.youtube.com/watch?v=zfYHTeoyZHU)
+* [ ] [Product Manager Interview: Design Facebook Travel](https://www.youtube.com/watch?v=WydD8QWz9AE)
+* [ ] [The Product Design questions of a Product Manager Interview](https://www.youtube.com/watch?v=JPuPmywi8Ew)
 * [ ] [Facebook Product Manager Mock Interview: Facebook Movies](https://youtu.be/se6Soyi2k0U): 
 
   1. Mission & Strategy - Why makes sense to build this product
@@ -10,3 +13,8 @@ Awesome Product Management
   3. Brainstorm of potential pain points and needs, prioritize 
   4. Potential solutions, prioritize based on impact / effort and other key metrics
   5. Pick one solution and define the MVP
+
+
+
+* [Google vs. Facebook - Engineering Culture](https://www.youtube.com/watch?v=GjE7clki4a0)
+* 
