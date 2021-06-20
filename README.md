@@ -1,5 +1,9 @@
 # Awesome-Product-Management
-Awesome Product Management
+
+Hypothesis Driven Development
+
+* [Hypothesis Driven Validation](https://www.mindtheproduct.com/hypothesis-driven-validation-by-nate-archer/) By Nate Archer
+* [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
 
 * [ ] [Facebook Product Manager Execution Interview: YouTube Goals & Decline](https://www.youtube.com/watch?v=3Qx9cVRJ06I)
 * [ ] [Product Marketing Manager (PMM) Mock Interview](https://youtu.be/pUtfNI8_L9M)
