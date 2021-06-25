@@ -3,7 +3,7 @@
 Hypothesis Driven Development
 
 * [Hypothesis Driven Validation](https://www.mindtheproduct.com/hypothesis-driven-validation-by-nate-archer/) By Nate Archer
-* [Reduce Risk in Product Development with Hypothesis-Driven Design] with Christian Lomholt by HCD UAE](https://www.youtube.com/watch?v=Ht_qkXD9xc8&t=1806s&ab_channel=HumanCentredDesignUnitedArabEmirates)
+* [Reduce Risk in Product Development with Hypothesis-Driven Design](https://youtu.be/Ht_qkXD9xc8) with Christian Lomholt by HCD UAE
 * [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
 
 * [ ] [Facebook Product Manager Execution Interview: YouTube Goals & Decline](https://www.youtube.com/watch?v=3Qx9cVRJ06I)
