@@ -29,3 +29,8 @@
 
 * [Google vs. Facebook - Engineering Culture](https://www.youtube.com/watch?v=GjE7clki4a0)
 * 
+
+
+## Communities
+
+* [Women In Product](https://twitter.com/womenpm), who runs annually [product conference](https://www.womenpm.org/conference)
