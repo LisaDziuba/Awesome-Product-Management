@@ -5,6 +5,7 @@
 * [Hypothesis Driven Validation](https://www.mindtheproduct.com/hypothesis-driven-validation-by-nate-archer/) By Nate Archer
 * [Reduce Risk in Product Development with Hypothesis-Driven Design](https://youtu.be/Ht_qkXD9xc8) with Christian Lomholt by HCD UAE
 * [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
+* [How Netflix’s Customer Obsession Created a Customer Obsession](https://gibsonbiddle.medium.com/customer-obsession-8f1689df60ad) by Gibson Biddle
 
 
 ### Artciles
