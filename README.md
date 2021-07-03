@@ -40,3 +40,7 @@
 * [Mind the Product Slack](https://www.mindtheproduct.com/product-management-slack-community/)
 * [Product-Led Slack](https://productled.com/community)
 * [Women In Product](https://twitter.com/womenpm), who runs annually [product conference](https://www.womenpm.org/conference)
+
+## Podcasts
+
+* [This is Product Management](https://podcasts.apple.com/us/podcast/this-is-product-management/id975284403)
