@@ -32,6 +32,13 @@
 * 
 
 
+Good blogs:
+
+* [My Product Management Toolkit](https://maa1.medium.com) by Marc Abraham, Head of Product at ASOS.com
+
+Mind the Product
+
+
 ## Communities
 
 * [Slack Product Marketing community](https://productmarketingalliance.com/join-slack/) by Product Marketing Alliance.
