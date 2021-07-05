@@ -55,4 +55,4 @@ Mind the Product
 
 ## Newsletters
 
-* [“Ask Gib” product Newsletter] by Gibson Biddle, former Netflix/Chegg VP/CPO. Guest lecturer at both INSEAD & Stanford.
+* [“Ask Gib” product Newsletter](https://askgib.substack.com/) by Gibson Biddle, former Netflix/Chegg VP/CPO. Guest lecturer at both INSEAD & Stanford.
