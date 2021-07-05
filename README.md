@@ -51,3 +51,8 @@ Mind the Product
 ## Podcasts
 
 * [This is Product Management](https://podcasts.apple.com/us/podcast/this-is-product-management/id975284403)
+
+
+## Newsletters
+
+* [“Ask Gib” product Newsletter] by Gibson Biddle, former Netflix/Chegg VP/CPO. Guest lecturer at both INSEAD & Stanford.
