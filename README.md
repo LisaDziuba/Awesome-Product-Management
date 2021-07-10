@@ -48,11 +48,11 @@ Mind the Product
 
 ## Communities
 
-* [Slack Product Marketing community](https://productmarketingalliance.com/join-slack/) by Product Marketing Alliance.
-* [Slack Community For Product Managers](https://productschool.com/slack-community/) by Product School.
-* [The Product Folks](https://www.theproductfolks.com/) community
-* [Mind the Product Slack](https://www.mindtheproduct.com/product-management-slack-community/)
-* [Product-Led Slack](https://productled.com/community)
+* [Slack Product Marketing community](https://productmarketingalliance.com/join-slack/) by Product Marketing Alliance (very active).
+* [Slack Community For Product Managers](https://productschool.com/slack-community/) by Product School (very active).
+* [The Product Folks](https://www.theproductfolks.com/) community (active).
+* [Mind the Product Slack](https://www.mindtheproduct.com/product-management-slack-community/) (not very active).
+* [Product-Led Slack](https://productled.com/community) (not very active).
 * [Women In Product](https://twitter.com/womenpm), who runs annually [product conference](https://www.womenpm.org/conference)
 
 ## Podcasts
