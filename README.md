@@ -10,6 +10,8 @@
 
 ### Artciles
 
+[Product Alignment: An Introduction to How We Do Product Management at Miro](https://productcoalition.com/product-alignment-approach-an-intro-to-how-we-do-product-at-miro-f19c7f3f23e2)
+
 ### Building Empathy
 
 * [Building empathy in a product team](https://www.intercom.com/blog/building-empathy-in-a-product-team/)
