@@ -60,6 +60,7 @@ Mind the Product
 ## Podcasts
 
 * [This is Product Management](https://podcasts.apple.com/us/podcast/this-is-product-management/id975284403)
+* [Intercom on Product](https://www.intercom.com/blog/podcasts)
 
 
 ## Newsletters
