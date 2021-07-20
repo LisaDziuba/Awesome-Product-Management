@@ -61,7 +61,8 @@ Mind the Product
 
 * [This is Product Management](https://podcasts.apple.com/us/podcast/this-is-product-management/id975284403)
 * [Intercom on Product](https://www.intercom.com/blog/podcasts)
-* The Startup Chat https://thestartupchat.com/
+* [The Startup Chat](https://thestartupchat.com/)
+* [Drift podcast: Build with Maggie Crowley](https://buildpodcast.drift.com/public/13/Build-45671)
 * [Product Coalition](https://podcast.productcoalition.com/)
 * [Product Marketing Experts](https://podcasts.sharebird.com/episodes)
 * [Product to Product](https://roadmunk.com/product-to-product-podcast)
