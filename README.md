@@ -14,12 +14,14 @@
 
 [How To Apply Design Thinking To Product Management](https://productcraft.com/best-practices/how-to-apply-design-thinking-to-product-management/)
 
+[Roadmap vs. release plan: What’s the difference?]()
+
 ### Building Empathy
 
 * [Building empathy in a product team](https://www.intercom.com/blog/building-empathy-in-a-product-team/)
 * [Empathy Mapping: A Guide to Getting Inside a User’s Head](https://www.uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-users-head/) by Jennifer Leigh Brown
 * [User Story by productplan](https://www.productplan.com/glossary/user-story/) and [User Stories with Examples and Template by atlassian](https://www.atlassian.com/agile/project-management/user-stories)
-* [Journey Mapping is Key to Gaining Empathy]()
+* [Journey Mapping is Key to Gaining Empathy](https://www.productboard.com/blog/roadmap-vs-release-plan/)
 * [Why Empathy Is the Secret to Great Customer Service](https://www.dixa.com/blog/why-empathy-is-the-secret-to-great-customer-service/) by Tue Søttrup
 * [Should you use your own product?](https://canny.io/blog/should-you-use-your-own-product/)
 
